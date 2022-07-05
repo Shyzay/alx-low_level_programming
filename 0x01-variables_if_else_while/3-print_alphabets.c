@@ -11,8 +11,8 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 int i;
 for (i = 0; i < 52; i++)
 {
-putchair(alp[i]);
+putchar(alp[i]);
 }
-putchair('\n');
+putchar('\n');
 return (0);
 }
