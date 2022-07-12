@@ -5,7 +5,6 @@
 *
 * Return: Always 0 (Success)
 */
-
 int main(void)
 {
 int i, e, g;
@@ -34,7 +33,7 @@ break;
 putchar(',');
 putchar(' ');
 }
-g++
+g++;
 }
 i++;
 }
