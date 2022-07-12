@@ -20,7 +20,7 @@ m = n;
 }
 
 d = m;
-ount = 1;
+count = 1;
 
 while (d > 9)
 {
