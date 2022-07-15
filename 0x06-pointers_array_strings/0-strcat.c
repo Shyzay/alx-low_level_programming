@@ -19,5 +19,5 @@ dest[len] = src[i];
 len += 1;
 }
 dest[len] = '\0';
-return (dest)
+return (dest);
 }
